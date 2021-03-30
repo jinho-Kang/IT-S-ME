@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Index</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css" />
+  </head>
+  <body>
+    <div class="status-bar">
+      <div class="status-bar__time">
+        <span>SKT</span>
+        <span>11:09</span>
+      </div>
+      <div class="status-bar__icons">
+        <div class="status-bar__icon"><i class="fas fa-stopwatch"></i></div>
+        <div class="status-bar__icon"><i class="fab fa-bluetooth-b"></i></div>
+        <div class="status-bar__icon"><i class="fas fa-volume-mute"></i></div>
+        <div class="status-bar__icon"><i class="fas fa-wifi"></i></div>
+        <div class="status-bar__icon"><i class="fas fa-signal"></i></div>
+        <div class="status-bar__icon"><i class="fas fa-battery-full"></i></div>
+      </div>
+    </div>
+    <header class="user-instagram">
+      <div class="user-instagram-title">
+        <span class="user-instagram__font-italic"><em>Jinstagram</em></span>
+      </div>
+      <div class="user-instagram__image">
+        <i class="fas fa-user-circle fa-7x"></i>
+      </div>
+      <div class="user-instagram__name">jinho6461</div>
+      <div class="user-instagram__login">
+        <a href="user.html"><span>로그인</span></a>
+      </div>
+      <div class="user-instagram__account">
+        <div class="user-instagram__account-delete">
+          <span>삭제</span>
+        </div>
+        <div class="user-instagram__account-choice">
+          <div class="user-instagram__account-choice-change">
+            <span>계정 변경</span>
+          </div>
+          <div class="user-instagram__account-choice-join">
+            <span>가입하기</span>
+          </div>
+        </div>
+      </div>
+    </header>
+    <nav class="user-nav">
+      <div class="user-nav__icons">
+        <div class="user-nav__icons-icon">
+          <i class="fas fa-bars fa-2x"></i>
+        </div>
+        <div class="user-nav__icons-icon">
+          <i class="far fa-square fa-2x"></i>
+        </div>
+        <div class="user-nav__icons-icon">
+          <i class="fas fa-chevron-left fa-2x"></i>
+        </div>
+      </div>
+    </nav>
+    <script
+      src="https://kit.fontawesome.com/6478f529f2.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

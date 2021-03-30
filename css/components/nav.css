@@ -1,0 +1,22 @@
+.user-nav {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.user-nav__icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 90px;
+  box-sizing: border-box;
+  opacity: 0.5;
+}
+.user-nav__icons-icon:first-child {
+  margin-right: auto;
+}
+.user-nav__icons-icon:nth-child(2) {
+  width: 6%;
+}
+.user-nav__icons-icon:last-child {
+  margin-left: auto;
+}

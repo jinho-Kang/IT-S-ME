@@ -1,0 +1,19 @@
+.status-bar {
+  display: flex;
+  padding: 5px 20px;
+  color: var(--main-color);
+  width: 100%;
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+}
+.status-bar__time {
+  margin-right: auto;
+}
+.status-bar__icons {
+  display: flex;
+  margin-left: auto;
+}
+.status-bar__icon {
+  margin-right: 5px;
+}

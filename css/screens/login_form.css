@@ -1,0 +1,71 @@
+.user-instagram {
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.user-instagram__font-italic {
+  font-style: italic;
+  font-size: 40px;
+}
+.user-instagram__image,
+.user-instagram__name {
+  color: var(--main-color);
+}
+.user-instagram__image {
+  opacity: 0.3;
+  margin-bottom: 25px;
+}
+.user-instagram-title {
+  margin-bottom: 50px;
+}
+.user-instagram__name {
+  font-size: 17px;
+}
+.user-instagram__login {
+  margin-top: 20px;
+  background-color: var(--blue);
+}
+.user-instagram__login span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 50px;
+  color: white;
+}
+.user-instagram__account {
+  margin-top: 30px;
+  width: 100%;
+}
+.user-instagram__account-delete span {
+  color: var(--blue);
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+}
+.user-instagram__account-choice {
+  color: var(--blue);
+  font-size: 18px;
+  margin-top: 130px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 2px solid rgba(0, 0, 0, 0.1);
+  height: 100px;
+}
+.user-instagram__account-choice-change,
+.user-instagram__account-choice-join {
+  width: 50%;
+  height: 100px;
+}
+.user-instagram__account-choice span {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 40px;
+}
+.user-instagram__account-choice-change {
+  border-right: 2px solid rgba(0, 0, 0, 0.1);
+}
