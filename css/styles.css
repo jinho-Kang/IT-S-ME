@@ -4,8 +4,10 @@
 /* componets */
 @import "components/status_bar.css";
 @import "components/nav.css";
+@import "components/story_bubble.css";
 /* screens */
 @import "screens/login_form.css";
+@import "screens/user_bar.css";
 
 body {
   font-family: "Open Sans", sans-serif;

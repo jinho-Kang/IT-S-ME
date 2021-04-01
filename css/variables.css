@@ -1,4 +1,6 @@
 :root {
   --main-color: #8a8a8a;
   --blue: #0195f7;
+  --user-face-opacity: 0.3;
+  --user-bar-space: 30px;
 }

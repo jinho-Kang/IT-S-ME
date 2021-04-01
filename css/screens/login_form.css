@@ -14,7 +14,7 @@
   color: var(--main-color);
 }
 .user-instagram__image {
-  opacity: 0.3;
+  opacity: var(--user-face-opacity);
   margin-bottom: 25px;
 }
 .user-instagram-title {
