@@ -5,9 +5,11 @@
 @import "components/status_bar.css";
 @import "components/nav.css";
 @import "components/story_bubble.css";
+@import "components/bottom_image_bar.css";
 /* screens */
 @import "screens/login_form.css";
 @import "screens/user_bar.css";
+@import "screens/home.css";
 
 body {
   font-family: "Open Sans", sans-serif;

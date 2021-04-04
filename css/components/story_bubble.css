@@ -10,9 +10,6 @@
   border-radius: 50px;
   opacity: 0.5;
   background-color: #dbdbdb;
-}
-
-.user_profile-story-bubbles:first-child {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -32,7 +29,10 @@
 }
 .user_profile-story-bubbles {
   display: flex;
-  width: 80%;
+}
+.user_profile-story-bubbles:last-child {
+  width: 75%;
+  display: flex;
   justify-content: space-between;
 }
 .user_profile-story-bubble {
@@ -41,10 +41,4 @@
   border-radius: 50px;
   opacity: 0.5;
   background-color: #dbdbdb;
-}
-.user_profile-story-bubbles:last-child {
-  display: flex;
-}
-.user_profile-story-bubble:last-child {
-  margin-right: 50px;
 }

@@ -6,7 +6,7 @@
   box-sizing: border-box;
   position: fixed;
   top: 0;
-  font-size: 20px;
+  font-size: 30px;
 }
 .status-bar__time {
   margin-right: auto;
