@@ -10,6 +10,7 @@
 @import "screens/login_form.css";
 @import "screens/user_bar.css";
 @import "screens/home.css";
+@import "screens/reels.css";
 
 body {
   font-family: "Open Sans", sans-serif;

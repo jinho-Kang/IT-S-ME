@@ -3,6 +3,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 40px 20px;
+  margin-top: 100px;
 }
 .user_profile-story_home_bubbles-bubble {
   display: flex;
@@ -97,5 +98,6 @@
   margin-right: 20px;
 }
 .user_profile_home-screen-rows:last-child {
+  margin: 20px;
   margin-top: 40px;
 }

@@ -134,3 +134,7 @@ a {
 input:focus {
   outline: none;
 }
+video {
+  width: 100%;
+  height: auto;
+}

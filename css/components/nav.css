@@ -2,7 +2,15 @@
   position: fixed;
   bottom: 0;
   width: 100%;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
+  z-index: 1;
+  background-color: white;
+}
+.user-nav-reels {
+  background-color: black;
+}
+.user-nav-reels .user-nav__icons {
+  color: white;
 }
 .user-nav__icons {
   display: flex;

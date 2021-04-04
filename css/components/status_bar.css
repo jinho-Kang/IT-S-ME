@@ -7,6 +7,12 @@
   position: fixed;
   top: 0;
   font-size: 30px;
+  background-color: white;
+  z-index: 2;
+}
+.status-bar-Reels {
+  background-color: black;
+  padding: 10px 40px;
 }
 .status-bar__time {
   margin-right: auto;
